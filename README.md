@@ -6,4 +6,4 @@ WTF(What The Fuzz) Fuzzer 학습 및 예제 구현
 
 ### 1. WTF Example
 
-​		  - [#1](https://github.com/by-roj/24_What-The-Fuzz/blob/main/WTF_Example_%231.md)
+- [#1](https://github.com/by-roj/24_What-The-Fuzz/blob/main/WTF_Example_%231.md)
