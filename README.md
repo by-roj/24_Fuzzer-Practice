@@ -1,6 +1,6 @@
 # What The Fuzz
 
-Learn about WTF(What The Fuzz) Fuzzer and implement examples
+Learning about WTF(What The Fuzz) Fuzzer and implementing examples
 > WTF(What The Fuzz) Fuzzer 학습 및 예제 구현
 
 <br>
