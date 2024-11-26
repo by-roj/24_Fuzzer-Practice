@@ -1,4 +1,4 @@
-# Fuzzing Practive
+# Fuzzing Practice
 
 Learning about Fuzzing and implementing examples using various fuzzers
 
