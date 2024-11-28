@@ -1,4 +1,4 @@
-# Jackalope Example #1
+# Jackalope_Example_#1
 
 ### Installation
 
